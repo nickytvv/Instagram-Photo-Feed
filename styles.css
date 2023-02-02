@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css');
+
+.instagram-post {
+  width: 500px;
+  margin: 50px auto;
+  border: 1px solid #ccc;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  padding-left: 10px; 
+  background-color: #fafafa;
+}
+
+.header i {
+  font-size: 30px;
+  margin-right: 10px;
+}
+
+.header h3 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  font-size: 20px;
+  margin: 0;
+}
+
+img {
+  width: 100%;
+}
+
+.footer {
+  padding: 10px;
+  background-color: #fafafa;
+}
+
+.actions {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.actions i {
+  font-size: 20px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.footer p {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  margin: 0;
+  color: #333;
+}
+
+.caption {
+  font-family: 'Roboto', sans-ser
+}
+
+.profile-picture {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+h1{
+    text-align: center;
+}
